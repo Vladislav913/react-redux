@@ -1,0 +1,2 @@
+yarm install
+yarm start
